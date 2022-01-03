@@ -1,6 +1,4 @@
 a=2
 b=1
 c=1
-# change3: modify in master
-# change4: modify in master
-# change6: modify in master
+# merge:change5 modify in dev branch & changes3/4/6 modify in master brach
